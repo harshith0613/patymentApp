@@ -1,0 +1,35 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 70px 30px 70px;
+}
+
+.logo a{
+    color: #4f63ce;
+    font-size: 30px;
+    text-decoration: none;
+    
+}
+
+.menu a{
+    padding: 10px;
+    border-radius: 15px;
+    color: #4f63ce;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.credentials a{
+    padding: 10px;
+    border-radius: 15px;
+    color: #4f63ce;
+    font-size: 20px;
+}
+
+.navbar .menu a:hover,
+.navbar .credentials a:hover {
+    background-color: #f9fafb;
+}

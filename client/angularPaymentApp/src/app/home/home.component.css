@@ -1,0 +1,131 @@
+.container1{
+    text-align: center;
+    padding: 00px 170px 30px 170px;
+}
+
+.sleeve{
+    display: flex;
+    justify-content: center; 
+    font-size: 90px;
+    color: #2f2f2f;
+    font-family: "Open Sans", sans-serif;
+}
+.sleeve .sleeve1{
+    font-weight: 800; 
+}
+
+
+
+.container2{
+    text-align: center;
+    padding: 30px 170px 30px 170px;
+}
+.container3 .bigBox{
+    display: flex;
+    justify-content:flex-start;
+    height: 400px;
+    margin: 30px 70px 40px 70px;
+    background-image: linear-gradient(to bottom left, #1aaef1 , #00e8cb);
+    border-radius: 20px; 
+}
+
+.container3 .smallBox{
+    display: flex;
+    justify-content:space-between;
+    margin: 40px 70px 50px 70px;
+}
+.container3 .smallBox .small{
+    display: flex; 
+    height: 350px;
+    width: 630px;
+    border: 2px solid black;
+    border-radius: 20px;
+    font-size: 25px;
+    padding-top: 50px;
+    
+}
+
+.container3 .smallBox .small img{
+    width: 200px;
+    height: 200px;  
+    padding-top: 130px;
+}
+
+
+.container4{
+    text-align: center;
+    padding: 30px 170px 30px 170px;
+}
+
+
+.heading{
+    color: black;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 800;
+    font-size: 50px;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+
+.content{
+    font-family: "Open Sans", sans-serif;
+    font-size: 25px;
+    padding: 0px 170px 30px 170px;
+    letter-spacing: 1px;
+}
+
+.container img{
+    height: 25px;
+}
+
+.button{
+    padding: 20px ;   
+}
+
+.button1{
+    border-radius: 20px;
+    padding: 15px;
+    width: 200px;
+    font-size: 15px;
+    margin: 15px;
+    background-color: black;
+    color: white;
+    letter-spacing: 1px;
+}
+
+.button2{
+    border-radius: 20px;
+    padding: 15px;
+    font-size: 15px;
+    margin: 15px;
+    letter-spacing: 1px;
+}
+
+.button3{
+    border-radius: 20px;
+    padding: 15px;
+    font-size: 15px;
+    margin: 15px;
+    /* letter-spacing: 1px; */
+}
+
+.subcontent{
+    color: rgb(208, 208, 208);
+    padding: 0px 450px 20px 450px;
+    font-size: 15px;
+}
+
+.img{
+    display: flex;
+}
+
+.img img{
+    width: 150px;
+    height: 300px;
+    padding: 50px;
+}
+
+.tophead{
+    font-family: "Open Sans", sans-serif;
+}
+
